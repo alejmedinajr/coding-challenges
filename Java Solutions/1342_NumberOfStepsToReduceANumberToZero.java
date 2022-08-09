@@ -14,8 +14,7 @@ class Solution {
 			if(num % 2 == 0) {
 				num /= 2;//If it is an even number, divide by two
 				count++;
-			}
-			else {
+			} else {
 				num -= 1;//If it is an odd number, subtract one
 				count++;
 			}
