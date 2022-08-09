@@ -4,7 +4,7 @@
  *		answer[i] == "Fizz" if i is divisible by 3.
  *		answer[i] == "Buzz" if i is divisible by 5.
  *		answer[i] == i (as a string) if none of the above conditions are true.
-
+ *
  * @author Alejandro Medina (@alejmedinajr)
  *
  * Can be found at: https://leetcode.com/problems/fizz-buzz/
