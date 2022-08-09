@@ -1,4 +1,12 @@
 import java.util.*;
+
+/**
+ * Given a roman numeral, convert it to an integer.
+ *
+ * @author Alejandro Medina (@alejmedinajr)
+ *
+ * Can be found at: https://leetcode.com/problems/roman-to-integer/
+ */
 class Solution {
 	public int romanToInt(String s) {
 		HashMap<Character, Integer> conversionMap = new HashMap<Character, Integer>(); // HashMap for Roman Numeral to Decimal conversion
