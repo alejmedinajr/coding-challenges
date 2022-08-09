@@ -2,7 +2,7 @@
  
 # LeetCode Problems  
  
-This repository focuses on solving LeetCode problems. Anyone is welcome to take on and submit their solution to a problem. This repository was made by Alejandro Medina (@alejmedinajr) in the summer of 2022 because coding is fun!    
+This repository focuses on solving LeetCode problems. Anyone is welcome to take on and submit their solution to a problem. This repository was made by Alejandro Medina ([@alejmedinajr](https://github.com/alejmedinajr/)) in the summer of 2022 because coding is fun!    
 
 </div>
 
@@ -28,4 +28,4 @@ This repository focuses on solving LeetCode problems. Anyone is welcome to take 
 
 
 #### Contributors
-- Alejandro Medina
+- Alejandro Medina ([@alejmedinajr](https://github.com/alejmedinajr/))
