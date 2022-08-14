@@ -1,0 +1,17 @@
+import java.io.*;
+import java.util.*;
+
+class Solution {
+    public String reverseWords(String s) {
+        String result = "";
+        Stack<String> words = new Stack<String>(); 
+        Scanner scan = new Scanner(s);
+        while(scan.hasNext()){
+            words.push(scan.next());
+        }
+        while(!words.empty()){
+            result += words.pop() + " ";
+        }
+        return result.trim();
+    }
+}
